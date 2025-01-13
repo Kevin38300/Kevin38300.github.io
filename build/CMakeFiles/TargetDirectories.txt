@@ -1,4 +1,0 @@
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/build/CMake_Ninja/CMakeFiles/CMake_Ninja.dir
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/build/MyLibraryFolder/CMakeFiles/MyLibraryFolder.dir
