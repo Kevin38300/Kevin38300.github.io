@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/CMake_Ninja/CMakeFiles/CMake_Ninja.dir/Debug/embed.manifest"

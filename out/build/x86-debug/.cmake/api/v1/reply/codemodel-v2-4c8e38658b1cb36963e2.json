@@ -1,0 +1,356 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CMake_Ninja",
+					"jsonFile" : "directory-CMake_Ninja-Debug-8b5139b2e78375da14c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CMake_Ninja",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "MyLibraryFolder",
+					"jsonFile" : "directory-MyLibraryFolder-Debug-7fa0d6cf14445a91158f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MyLibraryFolder",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CMake_Ninja",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CMake_Ninja::@a21773bf12b17131e532",
+					"jsonFile" : "target-CMake_Ninja-Debug-435f12a969ea1e0b269f.json",
+					"name" : "CMake_Ninja",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MyLibraryFolder::@64f9ad9c1639c54fe0f3",
+					"jsonFile" : "target-MyLibraryFolder-Debug-5cba4b3cb9a9c4eb82bc.json",
+					"name" : "MyLibraryFolder",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CMake_Ninja",
+					"jsonFile" : "directory-CMake_Ninja-Release-8b5139b2e78375da14c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CMake_Ninja",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "MyLibraryFolder",
+					"jsonFile" : "directory-MyLibraryFolder-Release-7fa0d6cf14445a91158f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MyLibraryFolder",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CMake_Ninja",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CMake_Ninja::@a21773bf12b17131e532",
+					"jsonFile" : "target-CMake_Ninja-Release-db411ce0d1ffbbfb7452.json",
+					"name" : "CMake_Ninja",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MyLibraryFolder::@64f9ad9c1639c54fe0f3",
+					"jsonFile" : "target-MyLibraryFolder-Release-d7a842d993e415e8d8a2.json",
+					"name" : "MyLibraryFolder",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CMake_Ninja",
+					"jsonFile" : "directory-CMake_Ninja-RelWithDebInfo-8b5139b2e78375da14c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CMake_Ninja",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "MyLibraryFolder",
+					"jsonFile" : "directory-MyLibraryFolder-RelWithDebInfo-7fa0d6cf14445a91158f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MyLibraryFolder",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CMake_Ninja",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CMake_Ninja::@a21773bf12b17131e532",
+					"jsonFile" : "target-CMake_Ninja-RelWithDebInfo-291ddbda5936f0466f20.json",
+					"name" : "CMake_Ninja",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MyLibraryFolder::@64f9ad9c1639c54fe0f3",
+					"jsonFile" : "target-MyLibraryFolder-RelWithDebInfo-3d1d759cff958971a8fb.json",
+					"name" : "MyLibraryFolder",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CMake_Ninja",
+					"jsonFile" : "directory-CMake_Ninja-MinSizeRel-8b5139b2e78375da14c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CMake_Ninja",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "MyLibraryFolder",
+					"jsonFile" : "directory-MyLibraryFolder-MinSizeRel-7fa0d6cf14445a91158f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MyLibraryFolder",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CMake_Ninja",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CMake_Ninja::@a21773bf12b17131e532",
+					"jsonFile" : "target-CMake_Ninja-MinSizeRel-9dd24d7415018ef7cdb2.json",
+					"name" : "CMake_Ninja",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MyLibraryFolder::@64f9ad9c1639c54fe0f3",
+					"jsonFile" : "target-MyLibraryFolder-MinSizeRel-439fc59c1b2633521a70.json",
+					"name" : "MyLibraryFolder",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug",
+		"source" : "C:/Users/K.Lourenco/source/repos/CMake_Ninja"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

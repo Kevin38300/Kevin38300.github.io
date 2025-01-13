@@ -1,0 +1,5 @@
+# ninja log v6
+19	58	7584634657251135	MyLibraryFolder/CMakeFiles/MyLibraryFolder.dir/Debug/Sources/MyLibrary.cpp.obj	b684eb497d7c0827
+58	92	7584634657633663	MyLibraryFolder/Debug/MyLibraryFolder.lib	63866e702e1dfa15
+22	615	7584634657271330	CMake_Ninja/CMakeFiles/CMake_Ninja.dir/Debug/CMake_Ninja.cpp.obj	22a582b238ca14ca
+618	1042	7584634663229160	CMake_Ninja/Debug/CMake_Ninja.exe	6d585773f6df9c8d

@@ -1,0 +1,67 @@
+-- Downloading https://github.com/glennrp/libpng/archive/v1.6.43.tar.gz -> glennrp-libpng-v1.6.43.tar.gz...
+-- Extracting source C:/Users/K.Lourenco/AppData/Local/vcpkg/downloads/glennrp-libpng-v1.6.43.tar.gz
+-- Applying patch cmake.patch
+-- Applying patch fix-export-targets.patch
+-- Applying patch libm.patch
+-- Applying patch pkgconfig.patch
+-- Applying patch fix-msa-support-for-mips.patch
+-- Using source at C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/src/v1.6.43-e957a32120.clean
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:70 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:143 (z_vcpkg_find_acquire_program_find_internal)
+  C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:116 (vcpkg_find_acquire_program)
+  C:/Users/K.Lourenco/AppData/Local/vcpkg/registries/git-trees/9c7fd06f1cdd1dfc08b35ca9d6b0ba470cdd2470/portfile.cmake:71 (vcpkg_cmake_configure)
+  scripts/ports.cmake:192 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:30 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:149 (z_vcpkg_find_acquire_program_find_external)
+  C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:116 (vcpkg_find_acquire_program)
+  C:/Users/K.Lourenco/AppData/Local/vcpkg/registries/git-trees/9c7fd06f1cdd1dfc08b35ca9d6b0ba470cdd2470/portfile.cmake:71 (vcpkg_cmake_configure)
+  scripts/ports.cmake:192 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found external ninja('1.12.1').
+-- Configuring x86-windows
+-- Building x86-windows-dbg
+-- Building x86-windows-rel
+-- Installing: C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/libpng_x86-windows/share/png/vcpkg-cmake-wrapper.cmake
+-- Fixing pkgconfig file: C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/libpng_x86-windows/lib/pkgconfig/libpng16.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/K.Lourenco/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:70 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:143 (z_vcpkg_find_acquire_program_find_internal)
+  scripts/cmake/vcpkg_fixup_pkgconfig.cmake:193 (vcpkg_find_acquire_program)
+  C:/Users/K.Lourenco/AppData/Local/vcpkg/registries/git-trees/9c7fd06f1cdd1dfc08b35ca9d6b0ba470cdd2470/portfile.cmake:92 (vcpkg_fixup_pkgconfig)
+  scripts/ports.cmake:192 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Fixing pkgconfig file: C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/libpng_x86-windows/debug/lib/pkgconfig/libpng16.pc
+-- Installing: C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/libpng_x86-windows/debug/lib/pkgconfig/libpng.pc
+-- Installing: C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/libpng_x86-windows/lib/pkgconfig/libpng.pc
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/libpng_x86-windows/bin/libpng16.dll
+      C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/libpng_x86-windows/debug/bin/libpng16d.dll
+
+Call Stack (most recent call first):
+  C:/Users/K.Lourenco/AppData/Local/vcpkg/registries/git-trees/9c7fd06f1cdd1dfc08b35ca9d6b0ba470cdd2470/portfile.cmake:105 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Installing: C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/libpng_x86-windows/share/libpng/usage
+-- Installing: C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/libpng_x86-windows/share/libpng/copyright
+-- Exécution de la validation post-build

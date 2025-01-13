@@ -1,0 +1,7 @@
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/zlib/x86-windows-dbg/CMakeFiles/zlib.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/zlib/x86-windows-dbg/CMakeFiles/test.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/zlib/x86-windows-dbg/CMakeFiles/edit_cache.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/zlib/x86-windows-dbg/CMakeFiles/rebuild_cache.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/zlib/x86-windows-dbg/CMakeFiles/list_install_components.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/zlib/x86-windows-dbg/CMakeFiles/install.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/zlib/x86-windows-dbg/CMakeFiles/install/local.dir

@@ -1,0 +1,2 @@
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x86-windows/debug/lib/bz2d.lib
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x86-windows/debug/bin/bz2d.dll

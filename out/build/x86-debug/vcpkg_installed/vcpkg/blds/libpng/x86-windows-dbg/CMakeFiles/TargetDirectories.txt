@@ -1,0 +1,9 @@
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/x86-windows-dbg/CMakeFiles/png_genfiles.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/x86-windows-dbg/CMakeFiles/png_shared.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/x86-windows-dbg/CMakeFiles/pngfix.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/x86-windows-dbg/CMakeFiles/png-fix-itxt.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/x86-windows-dbg/CMakeFiles/edit_cache.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/x86-windows-dbg/CMakeFiles/rebuild_cache.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/x86-windows-dbg/CMakeFiles/list_install_components.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/x86-windows-dbg/CMakeFiles/install.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/libpng/x86-windows-dbg/CMakeFiles/install/local.dir

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\K.Lourenco\source\repos\CMake_Ninja\CMake_Ninja\CMake_Ninja.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\K.Lourenco\source\repos\CMake_Ninja\CMake_Ninja\CMake_Ninja.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\K.Lourenco\source\repos\CMake_Ninja\CMake_Ninja\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A1778036-361E-37DD-A191-E4C19D1015F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5776BA1B-2666-3FEE-80E7-0527446863CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-release/CMakeFiles/edit_cache.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-release/CMakeFiles/rebuild_cache.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-release/CMake_Ninja/CMakeFiles/CMake_Ninja.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-release/CMake_Ninja/CMakeFiles/edit_cache.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-release/CMake_Ninja/CMakeFiles/rebuild_cache.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-release/MyLibraryFolder/CMakeFiles/MyLibraryFolder.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-release/MyLibraryFolder/CMakeFiles/edit_cache.dir
+C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-release/MyLibraryFolder/CMakeFiles/rebuild_cache.dir
