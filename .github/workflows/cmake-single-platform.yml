@@ -54,7 +54,7 @@ jobs:
       run: cmake --build ${{github.workspace}}/build --config ${{env.BUILD_TYPE}}
 
     - name: Run    
-      working-directory: ${{github.workspace}}/CMake_Ninja/build/${{env.BUILD_TYPE}}
+      working-directory: ${{github.workspace}}/build/CMake_Ninja/${{env.BUILD_TYPE}}
       run: |
         start /b .\CMake_Ninja.exe
         timeout /t 5
