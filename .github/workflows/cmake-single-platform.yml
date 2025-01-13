@@ -24,13 +24,13 @@ jobs:
     
     -name: Setup vcpkg
      run: |
-       git clone https://github.com/microsoft/vcpkg.git
+       git clone https://github.com/vcpkg.git
        cd vcpkg
-       .\bootstrap-vcpkg.bat
+       .bootstrap-vcpkg.bat
        $vcpkg_root = $(Get-Location).Path
-       echo "VCPKG_ROOT=$vcpkg_root" | Out-File -FilePath $env:GITHUB_ENV -APPEND"
-       echo "$vcpkg_root" | Out-File -FilePath $env:GITHUB_PATH -APPEND
-     shell: pwsh
+       echo "VCPKG_ROOT=$vcpkg_root" | Out-File -FilePath $env:GITHUB_ENV -Append
+       echo "$vcpkg_root" | Out-File -FilePath $env:GITHUB_PATH -Append
+      shell: pwsh
     
     -name: Add dependencies
      working-directory: ${{github.workspace}}
