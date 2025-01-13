@@ -1,5 +1,0 @@
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x86-windows/lib/bz2.lib
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x86-windows/bin/bz2.dll
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x86-windows/tools/bzip2/bzip2.exe
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x86-windows/tools/bzip2/bzip2recover.exe
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x86-windows/include/bzlib.h

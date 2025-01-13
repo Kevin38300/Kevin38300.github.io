@@ -1,2 +1,0 @@
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
-C:/Users/K.Lourenco/source/repos/CMake_Ninja/out/build/x86-debug/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
