@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Docs\\Doxyfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\MyLibraryFolder\\Sources\\MyLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyLibraryFolder\\Sources\\MyLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\MyLibraryFolder\\Include\\MyLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyLibraryFolder\\Include\\MyLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -19,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMake_Ninja\\CMake_Ninja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\MyLibraryFolder\\Sources\\MyLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyLibraryFolder\\Sources\\MyLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\CMake_Ninja\\CMake_Ninja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMake_Ninja\\CMake_Ninja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\Docs\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Docs\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MyLibrary.h",
               "DocumentMoniker": "C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\MyLibraryFolder\\Include\\MyLibrary.h",
               "RelativeDocumentMoniker": "MyLibraryFolder\\Include\\MyLibrary.h",
               "ToolTip": "C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\MyLibraryFolder\\Include\\MyLibrary.h",
               "RelativeToolTip": "MyLibraryFolder\\Include\\MyLibrary.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-20T11:23:44.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CMake_Ninja.h",
               "DocumentMoniker": "C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\CMake_Ninja\\CMake_Ninja.h",
               "RelativeDocumentMoniker": "CMake_Ninja\\CMake_Ninja.h",
@@ -81,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MyLibrary.cpp",
               "DocumentMoniker": "C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\MyLibraryFolder\\Sources\\MyLibrary.cpp",
               "RelativeDocumentMoniker": "MyLibraryFolder\\Sources\\MyLibrary.cpp",
               "ToolTip": "C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\MyLibraryFolder\\Sources\\MyLibrary.cpp",
               "RelativeToolTip": "MyLibraryFolder\\Sources\\MyLibrary.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-20T11:11:39.952Z",
               "EditorCaption": ""
@@ -151,26 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\Docs\\html\\index.html",
-              "RelativeDocumentMoniker": "Docs\\html\\index.html",
-              "ToolTip": "C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\Docs\\html\\index.html",
-              "RelativeToolTip": "Docs\\html\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-20T10:31:56.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Doxyfile",
               "DocumentMoniker": "C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\Docs\\Doxyfile",
               "RelativeDocumentMoniker": "Docs\\Doxyfile",
               "ToolTip": "C:\\Users\\K.Lourenco\\source\\repos\\CMake_Ninja\\Docs\\Doxyfile",
               "RelativeToolTip": "Docs\\Doxyfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-20T10:24:25.906Z",
               "EditorCaption": ""
