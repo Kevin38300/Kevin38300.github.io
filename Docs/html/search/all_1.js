@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['main_0',['main',['../_c_make___ninja_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'CMake_Ninja.cpp']]]
+  ['getlife_0',['GetLife',['../class_my_library_1_1_class_life.html#ab81685ae5be46d19aeee54b9656fba92',1,'MyLibrary::ClassLife']]]
 ];

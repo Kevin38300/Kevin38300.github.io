@@ -1,0 +1,11 @@
+digraph "C:/Users/K.Lourenco/source/repos/CMake_Ninja/CMake_Ninja"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  dir_3707cf4d4b90dd2d36a849c1af0e7fa0 [label="CMake_Ninja", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_3707cf4d4b90dd2d36a849c1af0e7fa0.html",tooltip=""];
+  dir_4c8a712660d196a2efdbe3c38ebda330 [label="MyLibraryFolder", fillcolor="#edf0f7", color="red", style="filled", URL="dir_4c8a712660d196a2efdbe3c38ebda330.html",tooltip=""];
+  dir_3707cf4d4b90dd2d36a849c1af0e7fa0->dir_4c8a712660d196a2efdbe3c38ebda330 [headlabel="1", labeldistance=1.5 headhref="dir_000000_000002.html" href="dir_000000_000002.html" color="steelblue1" fontcolor="steelblue1"];
+}

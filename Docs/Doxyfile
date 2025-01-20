@@ -7,7 +7,7 @@ PROJECT_BRIEF         = "A C++ project demonstrating factorial calculation"
 OUTPUT_DIRECTORY      = .
 
 # Input files
-INPUT                 = ../CMake_Ninja ../CMake_Ninja
+INPUT                 = ../CMake_Ninja ../MyLibraryFolder/Include ../MyLibraryFolder/Sources
 FILE_PATTERNS         = *.h *.cpp
 RECURSIVE             = YES
 EXTRACT_ALL           = YES
